@@ -68,7 +68,9 @@
     <ClInclude Include="..\src\trampoline.h">
       <Filter>src\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\MinHook.h" />
+    <ClInclude Include="..\include\MinHook.h">
+      <Filter>src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\COPYING.txt" />
