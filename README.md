@@ -9,4 +9,6 @@ Verified to work on:
 
 Please file an issue with the result for any applications you try this with
 
+**Note: Before using this, make sure the application manefest does not set DpiAware to true.**
+
 See [this blog post](http://www.genericmaker.com/2014/05/force-dpi-scaling-on-windows.html) for more information.
