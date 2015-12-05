@@ -4,8 +4,15 @@ Hooks SetProcessDPIAware and blocks future calls from reaching Windows, forceful
 
 Suitable to be injected into a process at initialization time or forcefully added to a process by adding to the import table.
 
-Verified to work on:
+Probably works with:
 * Cadence OrCAD 16.6
+* Dashlane
+* Seafile
+* SQL Server Management Studio
+
+Probably doesn't work with:
+* Viber
+* RuneScape
 
 Please file an issue with the result for any applications you try this with
 
