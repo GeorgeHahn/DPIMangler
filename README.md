@@ -11,6 +11,7 @@ Probably works with:
 * SQL Server Management Studio
 
 Probably doesn't work with:
+* Photoshop
 * Viber
 * RuneScape
 
